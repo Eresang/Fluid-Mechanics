@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: c9c40e8395c4d9f4d9d6f64b16ef35b5
+timeCreated: 1461588490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sailor_piss_idle_0
+    21300002: sailor_piss_idle_1
+    21300004: sailor_piss_idle_2
+    21300006: sailor_piss_idle_3
+    21300008: sailor_piss_idle_4
+    21300010: sailor_piss_idle_5
+    21300012: sailor_piss_idle_6
+    21300014: sailor_piss_idle_7
+    21300016: sailor_piss_idle_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sailor_piss_idle_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 138
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_idle_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 138
+        width: 41
+        height: 64
+      alignment: 9
+      pivot: {x: 0.36585367, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -15, y: 60}
+        - {x: -15, y: 27}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 26, y: 23}
+        - {x: 26, y: 48}
+        - {x: 8, y: 64}
+    - name: sailor_piss_idle_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 138
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 63}
+        - {x: -14, y: 63}
+        - {x: -14, y: 11}
+        - {x: -11, y: 0}
+        - {x: 13, y: 0}
+        - {x: 26, y: 21}
+        - {x: 26, y: 49}
+        - {x: 18, y: 57}
+    - name: sailor_piss_idle_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 138
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_idle_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 138
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_idle_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 31
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_idle_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 34
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 74}
+        - {x: 12, y: 73}
+        - {x: -4, y: 70}
+        - {x: -16, y: 63}
+        - {x: -16, y: 23}
+        - {x: -12, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 30}
+        - {x: 18, y: 74}
+    - name: sailor_piss_idle_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 58
+        width: 30
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_idle_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

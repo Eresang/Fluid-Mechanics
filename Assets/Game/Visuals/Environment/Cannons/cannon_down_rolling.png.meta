@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: c947f81bedc19c34192bd2776b17a9d3
+timeCreated: 1461575677
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cannon_down_rolling_0
+    21300002: cannon_down_rolling_1
+    21300004: cannon_down_rolling_2
+    21300006: cannon_down_rolling_3
+    21300008: cannon_down_rolling_4
+    21300010: cannon_down_rolling_5
+    21300012: cannon_down_rolling_6
+    21300014: cannon_down_rolling_7
+    21300016: cannon_down_rolling_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cannon_down_rolling_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 62}
+        - {x: -10, y: 62}
+        - {x: -16, y: 57}
+        - {x: -16, y: 1}
+        - {x: 5, y: 1}
+        - {x: 13, y: 4}
+        - {x: 16, y: 13}
+        - {x: 16, y: 49}
+        - {x: 12, y: 61}
+    - name: cannon_down_rolling_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 61}
+        - {x: -4, y: 61}
+        - {x: -8, y: 59}
+        - {x: -16, y: 52}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 48}
+        - {x: 13, y: 52}
+    - name: cannon_down_rolling_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 58}
+        - {x: -6, y: 58}
+        - {x: -16, y: 48}
+        - {x: -16, y: 11}
+        - {x: -8, y: -4}
+        - {x: -6, y: -5}
+        - {x: 7, y: -5}
+        - {x: 16, y: 8}
+        - {x: 16, y: 43}
+        - {x: 14, y: 50}
+    - name: cannon_down_rolling_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 55}
+        - {x: -4, y: 55}
+        - {x: -8, y: 53}
+        - {x: -16, y: 46}
+        - {x: -16, y: -8}
+        - {x: 12, y: -8}
+        - {x: 16, y: -4}
+        - {x: 16, y: 42}
+        - {x: 13, y: 46}
+    - name: cannon_down_rolling_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -16, y: 42}
+        - {x: -16, y: 2}
+        - {x: -7, y: -11}
+        - {x: 16, y: -11}
+        - {x: 16, y: 48}
+        - {x: 12, y: 52}
+    - name: cannon_down_rolling_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 49}
+        - {x: -5, y: 49}
+        - {x: -16, y: 41}
+        - {x: -16, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: 44}
+    - name: cannon_down_rolling_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 130
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 46}
+        - {x: -16, y: 33}
+        - {x: -16, y: -10}
+        - {x: -12, y: -17}
+        - {x: 11, y: -17}
+        - {x: 16, y: -10}
+        - {x: 16, y: 46}
+    - name: cannon_down_rolling_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 43}
+        - {x: -16, y: 36}
+        - {x: -16, y: -14}
+        - {x: -15, y: -20}
+        - {x: 11, y: -20}
+        - {x: 16, y: -7}
+        - {x: 16, y: 40}
+        - {x: 15, y: 43}
+    - name: cannon_down_rolling_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 41}
+        - {x: -4, y: 41}
+        - {x: -16, y: 33}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 28}
+        - {x: 10, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

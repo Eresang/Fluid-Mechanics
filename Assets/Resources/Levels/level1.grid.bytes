@@ -1,0 +1,34 @@
+[define_grid]
+Size 14 7
+Name 
+Background level_01
+[define_objects]
+Trigger stairs_exit waypoint action_queue~4 hide~0 camera_move~3 13 5 10 camera_zoom~2 1 10 delay~1 0.8 new_grid~1 level2.grid
+Trigger trigger_action none action_queue~4 action_queue~3 camera_zoom~2 2.5 10 camera_move~3 10 6 10 delay~1 0.3 action_queue~2 new_object~7 interactable_conveyor_up 11 3 11 4 8 5 new_object~7 interactable_conveyor_left 11 5 10 5 9 5 destroy_chat~2 13 3 destroy_type~1 trigger_action
+Trigger trigger_sailor_placed none action_queue~7 delay~1 0.3 action_queue~2 camera_zoom~2 4.5 5 camera_player~0 action_queue~2 destroy_type~1 interactable_conveyor_up destroy_type~1 interactable_conveyor_left action_queue~2 activate_type~1 sailor_cannon activate_type~1 sailor_cannon_delayed action_queue~4 activate_type~1 cannon_up activate_type~1 cannon_up_delayed activate_type~1 cannon_down activate_object~3 cannon_down_delayed 11 0 delay~1 0.8 self_destruct~0
+Trigger -player_spawn none action_queue~14 play_music~1 EnglishFury_ambience_lvl1_01 camera_zoom~2 1.3 999 camera_move~3 1 6 999 delay~1 5 camera_move~3 1 4 1 delay~1 1.3 camera_zoom~2 1.6 1 delay~1 0.2 new_object~3 s_player 1 3 idle delay~1 0.01 destroy_object~3 barrelspawn_player 1 3 delay~1 0.8 new_dialog~1 dialog_swiperight self_destruct~0
+[object_locations]
+barrelspawn_player 1 3
+sailor_piss 5 1
+sailor_cannon 4 6 12 6 11 3 4 0 8 0 12 0
+sailor_cannon_delayed 6 6 10 6 10 0
+direction_set_south 11 3
+direction_set_east 4 6 6 6 8 6 10 6 12 6 5 1 4 0 8 0 10 0 12 0
+cannon_up 5 6 9 6 13 6
+cannon_up_delayed 7 6 11 6
+cannon_down 5 0 9 0 13 0
+cannon_down_delayed 7 0 11 0
+barrel_01 2 5 9 4 5 3 7 3
+cannonball_storage 7 4 10 4 5 2 10 2
+lantern_01 0 5 13 2
+stairs_01 13 3
+chest_01 0 6 2 6 6 4 0 1
+chest_02 1 6 9 3 0 2 6 2 0 0 2 0
+divider_01 3 6 3 1 3 0
+divider_02 3 5
+mast_01 6 3
+mast_02 10 3
+stairs_exit 13 3
+trigger_action 3 4 3 3 3 2
+trigger_sailor_placed 8 6
+-player_spawn 1 3

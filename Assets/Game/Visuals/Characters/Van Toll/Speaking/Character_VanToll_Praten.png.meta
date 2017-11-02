@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 42136d88918529c4cbd940f8fc4279ba
+timeCreated: 1467367139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_VanToll_Praten_0
+    21300002: Character_VanToll_Praten_1
+    21300004: Character_VanToll_Praten_2
+    21300006: Character_VanToll_Praten_3
+    21300008: Character_VanToll_Praten_4
+    21300010: Character_VanToll_Praten_5
+    21300012: Character_VanToll_Praten_6
+    21300014: Character_VanToll_Praten_7
+    21300016: Character_VanToll_Praten_8
+    21300018: Character_VanToll_Praten_9
+    21300020: Character_VanToll_Praten_10
+    21300022: Character_VanToll_Praten_11
+    21300024: Character_VanToll_Praten_12
+    21300026: Character_VanToll_Praten_13
+    21300028: Character_VanToll_Praten_14
+    21300030: Character_VanToll_Praten_15
+    21300032: Character_VanToll_Praten_16
+    21300034: Character_VanToll_Praten_17
+    21300036: Character_VanToll_Praten_18
+    21300038: Character_VanToll_Praten_19
+    21300040: Character_VanToll_Praten_20
+    21300042: Character_VanToll_Praten_21
+    21300044: Character_VanToll_Praten_22
+    21300046: Character_VanToll_Praten_23
+    21300048: Character_VanToll_Praten_24
+    21300050: Character_VanToll_Praten_25
+    21300052: Character_VanToll_Praten_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_VanToll_Praten_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 445
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -18, y: 52}
+        - {x: -18, y: 5}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 55}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 445
+        width: 34
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 62}
+        - {x: -18, y: 49}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 62}
+    - name: Character_VanToll_Praten_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 445
+        width: 34
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 64}
+        - {x: -13, y: 63}
+        - {x: -18, y: 51}
+        - {x: -18, y: 8}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 64}
+    - name: Character_VanToll_Praten_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 445
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -18, y: 52}
+        - {x: -18, y: 5}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 55}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 445
+        width: 34
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 64}
+        - {x: -13, y: 63}
+        - {x: -18, y: 51}
+        - {x: -18, y: 8}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 64}
+    - name: Character_VanToll_Praten_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 445
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -18, y: 52}
+        - {x: -18, y: 5}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 55}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 445
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -18, y: 52}
+        - {x: -18, y: 5}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 55}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 43
+        height: 63
+      alignment: 9
+      pivot: {x: 0.627907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 63}
+        - {x: -27, y: 37}
+        - {x: -27, y: 18}
+        - {x: -17, y: 18}
+        - {x: -15, y: 20}
+        - {x: -14, y: 9}
+        - {x: -12, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 54}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 378
+        width: 58
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 63}
+        - {x: -42, y: 33}
+        - {x: -42, y: 16}
+        - {x: -23, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 378
+        width: 66
+        height: 63
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 63}
+        - {x: -50, y: 10}
+        - {x: -50, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 63}
+    - name: Character_VanToll_Praten_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 378
+        width: 66
+        height: 63
+      alignment: 9
+      pivot: {x: 0.75757575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 9}
+        - {x: 16, y: 53}
+        - {x: 11, y: 63}
+        - {x: -13, y: 63}
+        - {x: -50, y: 9}
+        - {x: -50, y: 0}
+        - {x: 14, y: 0}
+    - name: Character_VanToll_Praten_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 378
+        width: 66
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7575758, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 6}
+        - {x: 16, y: 54}
+        - {x: 13, y: 63}
+        - {x: -10, y: 63}
+        - {x: -36, y: 41}
+        - {x: -33, y: 37}
+        - {x: -27, y: 36}
+        - {x: -50, y: 8}
+        - {x: -50, y: 0}
+        - {x: 14, y: 0}
+    - name: Character_VanToll_Praten_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 378
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -45, y: 42}
+        - {x: -50, y: 22}
+        - {x: -50, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 63}
+    - name: Character_VanToll_Praten_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 378
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -32, y: 49}
+        - {x: -32, y: 36}
+        - {x: -17, y: 35}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 16}
+        - {x: 16, y: 53}
+        - {x: 15, y: 63}
+    - name: Character_VanToll_Praten_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 311
+        width: 47
+        height: 63
+      alignment: 9
+      pivot: {x: 0.68085104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -32, y: 54}
+        - {x: -32, y: 22}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 54}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 311
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -32, y: 49}
+        - {x: -32, y: 36}
+        - {x: -17, y: 35}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 16}
+        - {x: 16, y: 53}
+        - {x: 15, y: 63}
+    - name: Character_VanToll_Praten_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 311
+        width: 47
+        height: 63
+      alignment: 9
+      pivot: {x: 0.680851, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -32, y: 54}
+        - {x: -32, y: 22}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 54}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 311
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -32, y: 49}
+        - {x: -32, y: 36}
+        - {x: -17, y: 35}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 16}
+        - {x: 16, y: 53}
+        - {x: 15, y: 63}
+    - name: Character_VanToll_Praten_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 311
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -32, y: 49}
+        - {x: -32, y: 36}
+        - {x: -17, y: 35}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 16}
+        - {x: 16, y: 53}
+        - {x: 15, y: 63}
+    - name: Character_VanToll_Praten_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 311
+        width: 39
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 63}
+        - {x: -17, y: 63}
+        - {x: -23, y: 36}
+        - {x: -23, y: 22}
+        - {x: -21, y: 22}
+        - {x: -17, y: 25}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 5}
+        - {x: 16, y: 48}
+    - name: Character_VanToll_Praten_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 311
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 63}
+        - {x: -13, y: 63}
+        - {x: -16, y: 59}
+        - {x: -16, y: 4}
+        - {x: -15, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 3}
+        - {x: 18, y: 40}
+        - {x: 16, y: 59}
+    - name: Character_VanToll_Praten_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 56}
+        - {x: -16, y: 2}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 56}
+        - {x: -16, y: 6}
+        - {x: -13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 55}
+        - {x: 12, y: 63}
+    - name: Character_VanToll_Praten_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 56}
+        - {x: -16, y: 2}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 56}
+        - {x: -16, y: 2}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 56}
+        - {x: -16, y: 2}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+        - {x: 11, y: 63}
+    - name: Character_VanToll_Praten_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 244
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 63}
+        - {x: -16, y: 10}
+        - {x: -13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

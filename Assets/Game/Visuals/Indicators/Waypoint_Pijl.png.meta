@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 5311c361a5b760a43a9645bf714c09ed
+timeCreated: 1467578152
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Waypoint_Pijl_0
+    21300002: Waypoint_Pijl_1
+    21300004: Waypoint_Pijl_2
+    21300006: Waypoint_Pijl_3
+    21300008: Waypoint_Pijl_4
+    21300010: Waypoint_Pijl_5
+    21300012: Waypoint_Pijl_6
+    21300014: Waypoint_Pijl_7
+    21300016: Waypoint_Pijl_8
+    21300018: Waypoint_Pijl_9
+    21300020: Waypoint_Pijl_10
+    21300022: Waypoint_Pijl_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Waypoint_Pijl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 15}
+        - {x: -5, y: 13}
+        - {x: -5, y: 10}
+        - {x: -1, y: 6}
+        - {x: 1, y: 6}
+        - {x: 5, y: 10}
+        - {x: 5, y: 11}
+        - {x: 3, y: 15}
+      - - {x: -5, y: 86}
+        - {x: -8, y: 73}
+        - {x: -8, y: 66}
+        - {x: -3, y: 57}
+        - {x: -1, y: 55}
+        - {x: 4, y: 55}
+        - {x: 9, y: 62}
+        - {x: 9, y: 75}
+        - {x: 5, y: 86}
+    - name: Waypoint_Pijl_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -6, y: 11}
+        - {x: -6, y: 6}
+        - {x: -2, y: 4}
+        - {x: 2, y: 4}
+        - {x: 6, y: 8}
+        - {x: 6, y: 11}
+        - {x: 2, y: 15}
+      - - {x: -5, y: 85}
+        - {x: -8, y: 72}
+        - {x: -8, y: 65}
+        - {x: -3, y: 56}
+        - {x: -1, y: 54}
+        - {x: 4, y: 54}
+        - {x: 9, y: 61}
+        - {x: 9, y: 74}
+        - {x: 5, y: 85}
+    - name: Waypoint_Pijl_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -7, y: 7}
+        - {x: -6, y: 3}
+        - {x: 3, y: 3}
+        - {x: 7, y: 7}
+        - {x: 7, y: 15}
+      - - {x: -5, y: 83}
+        - {x: -8, y: 71}
+        - {x: -8, y: 61}
+        - {x: -3, y: 54}
+        - {x: -1, y: 52}
+        - {x: 4, y: 52}
+        - {x: 9, y: 59}
+        - {x: 9, y: 72}
+        - {x: 5, y: 83}
+    - name: Waypoint_Pijl_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 17}
+        - {x: -3, y: 17}
+        - {x: -9, y: 12}
+        - {x: -9, y: 7}
+        - {x: -8, y: 4}
+        - {x: -5, y: 1}
+        - {x: -2, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+      - - {x: -5, y: 81}
+        - {x: -8, y: 69}
+        - {x: -8, y: 59}
+        - {x: -3, y: 52}
+        - {x: -1, y: 50}
+        - {x: 4, y: 50}
+        - {x: 9, y: 57}
+        - {x: 9, y: 70}
+        - {x: 5, y: 81}
+    - name: Waypoint_Pijl_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 19}
+        - {x: -10, y: 14}
+        - {x: -10, y: 7}
+        - {x: -4, y: 0}
+        - {x: 4, y: 0}
+        - {x: 10, y: 7}
+        - {x: 10, y: 14}
+        - {x: 5, y: 19}
+      - - {x: -5, y: 80}
+        - {x: -8, y: 68}
+        - {x: -8, y: 58}
+        - {x: -3, y: 51}
+        - {x: -1, y: 49}
+        - {x: 4, y: 49}
+        - {x: 9, y: 56}
+        - {x: 9, y: 69}
+        - {x: 5, y: 80}
+    - name: Waypoint_Pijl_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -10, y: 15}
+        - {x: -11, y: 12}
+        - {x: -11, y: 5}
+        - {x: -6, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 18}
+        - {x: 4, y: 20}
+      - - {x: -5, y: 80}
+        - {x: -8, y: 68}
+        - {x: -8, y: 58}
+        - {x: -3, y: 51}
+        - {x: -1, y: 49}
+        - {x: 4, y: 49}
+        - {x: 9, y: 56}
+        - {x: 9, y: 69}
+        - {x: 5, y: 80}
+    - name: Waypoint_Pijl_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 2}
+        - {x: -4, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 1}
+        - {x: 4, y: 4}
+        - {x: -3, y: 4}
+      - - {x: -12, y: 9}
+        - {x: -8, y: 4}
+        - {x: -5, y: 5}
+        - {x: -5, y: 11}
+        - {x: -6, y: 13}
+        - {x: -10, y: 13}
+        - {x: -12, y: 12}
+      - - {x: 7, y: 13}
+        - {x: 5, y: 11}
+        - {x: 5, y: 5}
+        - {x: 7, y: 4}
+        - {x: 10, y: 4}
+        - {x: 12, y: 9}
+        - {x: 12, y: 12}
+        - {x: 10, y: 13}
+      - - {x: -1, y: 20}
+        - {x: -5, y: 17}
+        - {x: -5, y: 15}
+        - {x: -4, y: 13}
+        - {x: 3, y: 13}
+        - {x: 5, y: 15}
+        - {x: 5, y: 16}
+        - {x: 1, y: 20}
+      - - {x: -5, y: 80}
+        - {x: -8, y: 68}
+        - {x: -8, y: 58}
+        - {x: -3, y: 51}
+        - {x: -1, y: 49}
+        - {x: 4, y: 49}
+        - {x: 9, y: 56}
+        - {x: 9, y: 69}
+        - {x: 5, y: 80}
+    - name: Waypoint_Pijl_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 166
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 3, y: 3}
+        - {x: -3, y: 3}
+        - {x: -4, y: 0}
+      - - {x: -12, y: 8}
+        - {x: -9, y: 5}
+        - {x: -6, y: 6}
+        - {x: -6, y: 10}
+        - {x: -7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 11}
+      - - {x: 8, y: 12}
+        - {x: 6, y: 10}
+        - {x: 6, y: 7}
+        - {x: 8, y: 5}
+        - {x: 9, y: 5}
+        - {x: 12, y: 8}
+        - {x: 12, y: 10}
+        - {x: 10, y: 12}
+      - - {x: -1, y: 20}
+        - {x: -4, y: 18}
+        - {x: -4, y: 16}
+        - {x: -3, y: 14}
+        - {x: 2, y: 14}
+        - {x: 4, y: 16}
+        - {x: 4, y: 17}
+        - {x: 1, y: 20}
+      - - {x: -5, y: 81}
+        - {x: -8, y: 69}
+        - {x: -8, y: 59}
+        - {x: -3, y: 52}
+        - {x: -1, y: 50}
+        - {x: 4, y: 50}
+        - {x: 9, y: 57}
+        - {x: 9, y: 70}
+        - {x: 5, y: 81}
+    - name: Waypoint_Pijl_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 83}
+        - {x: -8, y: 71}
+        - {x: -8, y: 61}
+        - {x: -3, y: 54}
+        - {x: -1, y: 52}
+        - {x: 4, y: 52}
+        - {x: 9, y: 59}
+        - {x: 9, y: 72}
+        - {x: 5, y: 83}
+    - name: Waypoint_Pijl_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 85}
+        - {x: -8, y: 72}
+        - {x: -8, y: 65}
+        - {x: -3, y: 56}
+        - {x: -1, y: 54}
+        - {x: 4, y: 54}
+        - {x: 9, y: 61}
+        - {x: 9, y: 74}
+        - {x: 5, y: 85}
+    - name: Waypoint_Pijl_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 86}
+        - {x: -8, y: 73}
+        - {x: -8, y: 66}
+        - {x: -3, y: 57}
+        - {x: -1, y: 55}
+        - {x: 4, y: 55}
+        - {x: 9, y: 62}
+        - {x: 9, y: 75}
+        - {x: 5, y: 86}
+    - name: Waypoint_Pijl_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 86}
+        - {x: -8, y: 73}
+        - {x: -8, y: 66}
+        - {x: -3, y: 57}
+        - {x: -1, y: 55}
+        - {x: 4, y: 55}
+        - {x: 9, y: 62}
+        - {x: 9, y: 75}
+        - {x: 5, y: 86}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

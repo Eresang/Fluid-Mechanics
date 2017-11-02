@@ -1,0 +1,49 @@
+[define_grid]
+Size 18 8
+Name 
+Background level_02
+Column 15 -23
+Column 16 -23
+Column 17 -23
+[define_objects]
+Interactable sailor_speaking sailor action_queue~2 new_chat~4 13 3 ani_janhuygen_right 0 new_object~13 trigger_remove_sailor_chat 12 2 12 4 13 5 13 1 14 4 14 2
+Trigger trigger_initialization none action_queue~5 play_music~1 EnglishFury_ambience_lvl1_01 camera_move~3 17 4 999 delay~1 0.1 camera_player~0 self_destruct~0
+Interactable vantoll vantoll action_queue~9 new_chat~4 16 3 message 2 delay~1 1 camera_move~3 0 5 1 animate~1 speaking delay~1 5 camera_player~0 animate_other~1 victory delay~1 1.8 new_grid~1 main_victory_01
+Trigger trigger_remove_sailor_chat none action_queue~2 destroy_chat~2 13 3 destroy_type~1 trigger_remove_sailor_chat
+Trigger trigger_after_message_chat none action_queue~3 destroy_object~3 small_fire 11 6 new_object~3 fire 11 6 destroy_type~1 trigger_after_message_chat
+Trigger trigger_fires_02 none action_queue~3 destroy_object~3 small_fire 12 2 new_object~3 fire 12 2 destroy_type~1 trigger_fires_02
+Trigger trigger_fires_03 none action_queue~3 destroy_object~3 lantern_01 6 1 new_object~3 fire 6 1 destroy_type~1 trigger_fires_03
+Trigger trigger_fires_04 none action_queue~3 destroy_object~3 lantern_01 7 4 new_object~3 fire 7 4 destroy_type~1 trigger_fires_04
+Interactable sailor_run sailor
+Trigger trigger_exit waypoint action_queue~3 animate_other~1 victory delay~1 1.8 new_grid~1 main_victory_01
+Trigger trigger_bombs_01 none action_queue~1 new_object~13 cannonball_impact 13 1 11 1 13 5 11 5 8 2 10 4
+Trigger trigger_bombs_02 none action_queue~1 new_object~9 cannonball_impact_instant 6 1 5 2 6 5 5 6
+Trigger trigger_bomb_example none action_queue~9 camera_player~0 delay~1 1.3 new_chat~4 17 3 exclamation_mark 0 camera_move~3 13 3 1 new_object~3 cannonball_impact_instant 13 3 delay~1 2.1 camera_player~0 destroy_object~3 cannonball_impact_instant 13 3 destroy_chat~2 17 3 self_destruct~0
+Trigger trigger_bombs_03 none action_queue~1 new_object~5 cannonball_impact_instant 3 4 1 3
+[object_locations]
+invisible_block 0 7 1 7 2 7 3 7 4 7 5 7 6 7 7 7 8 7 9 7 10 7 11 7 12 7 13 7 14 7 15 7 16 7 17 7 0 6 1 6 2 6 3 6 0 5 1 5 0 1 1 1 0 0 1 0 2 0 3 0 4 0
+player 17 3
+small_fire 11 6 7 4 12 2 6 1
+cannonball_impact 10 5 1 4 5 4 10 1
+cannonball_impact_instant 6 6 3 2 11 1 6 0
+direction_set_west 17 3
+block_west 15 5 15 4 15 3 15 2 15 1
+block_east 14 5 14 4 14 2 14 1
+barrel_01 4 1
+barrel_04_water 13 3
+barrel_06 17 0
+tall_mast_01 4 3 8 3 14 3
+rope_reel_02 0 2
+rope_reel_03 9 6
+stairs_02 14 6 14 0
+wheel_01 15 3
+wheel_railing_01 15 1
+chest_01 2 5
+chest_06 17 6
+trigger_initialization 17 3
+trigger_after_message_chat 14 6
+trigger_fires_02 14 0
+trigger_fires_03 8 2 8 1 8 0
+trigger_fires_04 8 5 8 4
+trigger_bombs_03 4 4
+vantoll 0 4

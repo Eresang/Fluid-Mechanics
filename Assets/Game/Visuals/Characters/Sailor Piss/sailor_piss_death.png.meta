@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: c89c3c3933cac4c47bd2e9872b12c013
+timeCreated: 1464084172
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sailor_piss_death_2
+    21300002: sailor_piss_death_3
+    21300004: sailor_piss_death_4
+    21300006: sailor_piss_death_0
+    21300008: sailor_piss_death_1
+    21300010: sailor_piss_death_5
+    21300012: sailor_piss_death_6
+    21300014: sailor_piss_death_7
+    21300016: sailor_piss_death_8
+    21300018: sailor_piss_death_9
+    21300020: sailor_piss_death_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sailor_piss_death_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 323
+        width: 71
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 74}
+        - {x: -35.5, y: 59}
+        - {x: -35.5, y: 12}
+        - {x: -30.5, y: 4}
+        - {x: 6.5, y: 4}
+        - {x: 16.5, y: 11}
+        - {x: 24.5, y: 42}
+        - {x: 24.5, y: 74}
+      - - {x: 17.5, y: 39}
+        - {x: 13.5, y: 37}
+        - {x: 13.5, y: 28}
+        - {x: 20.5, y: 13}
+        - {x: 24.5, y: 12}
+        - {x: 32.5, y: 12}
+        - {x: 35.5, y: 16}
+        - {x: 35.5, y: 26}
+        - {x: 24.5, y: 39}
+    - name: sailor_piss_death_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 323
+        width: 79
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 53}
+        - {x: 4.5, y: 56}
+        - {x: -9.5, y: 56}
+        - {x: -16.5, y: 54}
+        - {x: -35.5, y: 21}
+        - {x: -35.5, y: 16}
+        - {x: -26.5, y: 8}
+        - {x: -23.5, y: 8}
+        - {x: -18.5, y: 11}
+        - {x: 5.5, y: 15}
+        - {x: 6.5, y: 23}
+      - - {x: 15.5, y: 42}
+        - {x: 13.5, y: 38}
+        - {x: 13.5, y: 30}
+        - {x: 25.5, y: 17}
+        - {x: 34.5, y: 17}
+        - {x: 39.5, y: 20}
+        - {x: 39.5, y: 31}
+        - {x: 25.5, y: 42}
+      - - {x: -39.5, y: 35}
+        - {x: -35.5, y: 35}
+        - {x: 7.5, y: 52}
+        - {x: 7.5, y: 76}
+        - {x: 4.5, y: 81}
+        - {x: -20.5, y: 81}
+        - {x: -39.5, y: 66}
+      - - {x: 24.5, y: 73}
+        - {x: 16.5, y: 73}
+        - {x: 10.5, y: 68}
+        - {x: 7.5, y: 63}
+        - {x: 7.5, y: 58}
+        - {x: 12.5, y: 54}
+        - {x: 16.5, y: 54}
+        - {x: 26.5, y: 65}
+        - {x: 26.5, y: 72}
+    - name: sailor_piss_death_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 323
+        width: 91
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 56}
+        - {x: -27.5, y: 53}
+        - {x: -32.5, y: 53}
+        - {x: -30.5, y: 53}
+        - {x: -28.5, y: 55}
+        - {x: -27.5, y: 61}
+        - {x: -30.5, y: 64}
+        - {x: -39.5, y: 64}
+        - {x: -45.5, y: 62}
+        - {x: -45.5, y: 41}
+        - {x: -38.5, y: 19}
+        - {x: 6.5, y: 19}
+        - {x: 6.5, y: 51}
+        - {x: 0.5, y: 58}
+      - - {x: 18.5, y: 50}
+        - {x: 18.5, y: 36}
+        - {x: 30.5, y: 32}
+        - {x: 45.5, y: 32}
+        - {x: 45.5, y: 50}
+      - - {x: -21.5, y: 89}
+        - {x: -21.5, y: 70}
+        - {x: -18.5, y: 61}
+        - {x: -16.5, y: 60}
+        - {x: -5.5, y: 60}
+        - {x: 6.5, y: 69}
+        - {x: 6.5, y: 81}
+        - {x: 2.5, y: 89}
+      - - {x: 21.5, y: 78}
+        - {x: 19.5, y: 77}
+        - {x: 19.5, y: 68}
+        - {x: 20.5, y: 65}
+        - {x: 40.5, y: 65}
+        - {x: 41.5, y: 66}
+        - {x: 41.5, y: 74}
+        - {x: 30.5, y: 78}
+    - name: sailor_piss_death_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 323
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sailor_piss_death_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 323
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 63}
+        - {x: -17, y: 46}
+        - {x: -6, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 22}
+        - {x: 17, y: 57}
+        - {x: 14, y: 63}
+    - name: sailor_piss_death_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 90
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 55}
+        - {x: -11, y: 29}
+        - {x: -10, y: 21}
+        - {x: -5, y: 18}
+        - {x: 11, y: 18}
+        - {x: 11, y: 52}
+        - {x: 8, y: 55}
+      - - {x: -39, y: 74}
+        - {x: -45, y: 72}
+        - {x: -45, y: 54}
+        - {x: -34, y: 36}
+        - {x: -19, y: 36}
+        - {x: -10, y: 39}
+        - {x: -10, y: 65}
+        - {x: -23, y: 74}
+      - - {x: 30, y: 68}
+        - {x: 27, y: 60}
+        - {x: 27, y: 39}
+        - {x: 33, y: 37}
+        - {x: 45, y: 37}
+        - {x: 45, y: 68}
+      - - {x: 0, y: 98}
+        - {x: -22, y: 98}
+        - {x: -24, y: 97}
+        - {x: -24, y: 81}
+        - {x: -19, y: 68}
+        - {x: -16, y: 67}
+        - {x: -5, y: 67}
+        - {x: 5, y: 80}
+        - {x: 5, y: 90}
+        - {x: 2, y: 97}
+      - - {x: 31, y: 86}
+        - {x: 27, y: 85}
+        - {x: 27, y: 77}
+        - {x: 29, y: 75}
+        - {x: 41, y: 68}
+        - {x: 43, y: 68}
+        - {x: 45, y: 69}
+        - {x: 45, y: 78}
+        - {x: 39, y: 86}
+    - name: sailor_piss_death_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 223
+        width: 91
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 56}
+        - {x: -12.5, y: 30}
+        - {x: -11.5, y: 22}
+        - {x: -6.5, y: 19}
+        - {x: 9.5, y: 19}
+        - {x: 9.5, y: 53}
+        - {x: 6.5, y: 56}
+      - - {x: 37.5, y: 61}
+        - {x: 23.5, y: 61}
+        - {x: 23.5, y: 32}
+        - {x: 42.5, y: 32}
+        - {x: 43.5, y: 35}
+        - {x: 43.5, y: 46}
+        - {x: 40.5, y: 58}
+      - - {x: -19.5, y: 66}
+        - {x: -28.5, y: 66}
+        - {x: -31.5, y: 63}
+        - {x: -32.5, y: 58}
+        - {x: -32.5, y: 59}
+        - {x: -34.5, y: 64}
+        - {x: -45.5, y: 60}
+        - {x: -45.5, y: 44}
+        - {x: -40.5, y: 38}
+        - {x: -18.5, y: 33}
+        - {x: -12.5, y: 33}
+        - {x: -11.5, y: 35}
+        - {x: -11.5, y: 47}
+        - {x: -15.5, y: 62}
+      - - {x: 28.5, y: 69}
+        - {x: 39.5, y: 58}
+        - {x: 45.5, y: 58}
+        - {x: 45.5, y: 68}
+        - {x: 42.5, y: 77}
+        - {x: 38.5, y: 78}
+        - {x: 32.5, y: 78}
+        - {x: 28.5, y: 73}
+      - - {x: -20.5, y: 90}
+        - {x: -25.5, y: 89}
+        - {x: -25.5, y: 68}
+        - {x: -18.5, y: 64}
+        - {x: 0.5, y: 64}
+        - {x: 4.5, y: 69}
+        - {x: 4.5, y: 74}
+        - {x: -1.5, y: 90}
+    - name: sailor_piss_death_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 87
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 72}
+        - {x: -43.5, y: 51}
+        - {x: -43.5, y: 26}
+        - {x: -38.5, y: 21}
+        - {x: -8.5, y: 21}
+        - {x: -7.5, y: 26}
+        - {x: -7.5, y: 28}
+        - {x: -9.5, y: 32}
+        - {x: -7.5, y: 30}
+        - {x: -7.5, y: 23}
+        - {x: -6.5, y: 19}
+        - {x: -0.5, y: 18}
+        - {x: 10.5, y: 18}
+        - {x: 10.5, y: 63}
+        - {x: 8.5, y: 72}
+      - - {x: 21.5, y: 41}
+        - {x: 21.5, y: 31}
+        - {x: 32.5, y: 18}
+        - {x: 43.5, y: 18}
+        - {x: 43.5, y: 56}
+        - {x: 41.5, y: 58}
+        - {x: 33.5, y: 58}
+        - {x: 27.5, y: 56}
+    - name: sailor_piss_death_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 223
+        width: 85
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 41}
+        - {x: 27.5, y: 38}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: 6}
+        - {x: 19.5, y: 1}
+        - {x: 33.5, y: 1}
+        - {x: 42.5, y: 4}
+        - {x: 42.5, y: 39}
+        - {x: 37.5, y: 41}
+      - - {x: 5.5, y: 57}
+        - {x: -15.5, y: 57}
+        - {x: -23.5, y: 55}
+        - {x: -42.5, y: 26}
+        - {x: -42.5, y: 9}
+        - {x: -39.5, y: 2}
+        - {x: -28.5, y: 2}
+        - {x: -26.5, y: 3}
+        - {x: 8.5, y: 21}
+        - {x: 8.5, y: 53}
+    - name: sailor_piss_death_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 223
+        width: 85
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 39}
+        - {x: -4.5, y: 39}
+        - {x: -42.5, y: 9}
+        - {x: -42.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 11.5, y: 6}
+        - {x: 21.5, y: 26}
+        - {x: 21.5, y: 33}
+      - - {x: 16.5, y: 13}
+        - {x: 13.5, y: 7}
+        - {x: 13.5, y: 0}
+        - {x: 42.5, y: 0}
+        - {x: 42.5, y: 11}
+        - {x: 39.5, y: 13}
+    - name: sailor_piss_death_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 123
+        width: 85
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

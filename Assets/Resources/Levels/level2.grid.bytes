@@ -1,0 +1,40 @@
+[define_grid]
+Size 18 8
+Name 
+Background level_02
+Column 15 -23
+Column 16 -23
+Column 17 -23
+[define_objects]
+Interactable sailor_speaking sailor action_queue~2 new_chat~4 13 3 ani_janhuygen_right 0 new_object~13 trigger_remove_sailor_chat 12 2 12 4 13 5 13 1 14 4 14 2
+Trigger trigger_initialization none action_queue~6 play_music~1 EnglishFury_ambience_lvl1_01 camera_move~3 12 4 999 delay~1 0.1 camera_player~0 new_chat~4 13 3 ani_janhuygen_right 0 self_destruct~0
+Interactable adelaer adelaer action_queue~12 camera_zoom~2 2.5 10 new_object~3 trigger_exit 0 3 animate~1 speaking delay~1 7 camera_move~3 0 4 1 delay~1 3.5 destroy_object~3 sailor_speaking 13 3 new_object~3 direction_set_west 13 3 new_object~3 sailor_run 13 3 camera_zoom~2 4.5 5 camera_player~0 new_object~13 trigger_after_message_chat 17 6 16 5 15 4 15 2 16 1 17 0 delay~1 0
+Trigger trigger_remove_sailor_chat none action_queue~2 destroy_chat~2 13 3 destroy_type~1 trigger_remove_sailor_chat
+Trigger trigger_after_message_chat none action_queue~7 destroy_object~5 small_fire 17 6 16 1 new_object~5 fire 17 0 17 6 new_object~15 trigger_fires_02 9 6 9 0 9 1 9 2 9 3 9 4 9 5 new_object~9 trigger_fires_03 6 1 6 0 6 6 6 5 new_object~5 trigger_fires_04 2 2 2 4 destroy_chat~2 17 3 destroy_type~1 trigger_after_message_chat
+Trigger trigger_fires_02 none action_queue~3 destroy_object~5 small_fire 9 4 9 0 new_object~5 fire 9 4 9 0 destroy_type~1 trigger_fires_02
+Trigger trigger_fires_03 none action_queue~3 destroy_object~5 small_fire 6 5 6 1 new_object~5 fire 6 1 6 5 destroy_type~1 trigger_fires_03
+Trigger trigger_fires_04 none action_queue~3 destroy_object~3 small_fire 3 3 new_object~3 fire 3 3 destroy_type~1 trigger_fires_04
+Interactable sailor_run sailor
+Trigger trigger_exit waypoint action_queue~4 hide~0 animate_other~1 progressing delay~1 1.8 new_grid~1 level3.grid
+[object_locations]
+invisible_block 0 7 1 7 2 7 3 7 4 7 5 7 6 7 7 7 8 7 9 7 10 7 11 7 12 7 13 7 14 7 15 7 16 7 17 7 0 6 1 6 2 6 3 6 0 5 1 5 0 1 1 1 0 0 1 0 2 0 3 0
+s_player 12 3
+small_fire 17 6 6 5 9 4 3 3 6 1 9 0 17 0
+direction_set_west 13 3
+direction_set_east 12 3
+block_west 15 5 15 4 15 3 15 2 15 1
+block_east 14 5 14 4 14 2 14 1
+barrel_01 11 6 11 3 10 2
+tall_mast_01 4 3 8 3 14 3
+rope_reel_01 7 4 7 2 2 1 11 0
+rope_reel_02 2 5
+stairs_02 14 6 14 0
+wheel_01 15 3
+wheel_railing_01 15 1
+chest_01 7 3
+chest_02 10 4 6 3
+sailor_speaking 13 3
+trigger_initialization 12 3
+adelaer 17 3
+trigger_remove_sailor_chat 12 4 12 2
+sailor_run 6 2

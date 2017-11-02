@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 5e4f780b76272f843b82f0568d347e05
+timeCreated: 1461157683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: janhuygen_running_north_0
+    21300002: janhuygen_running_north_1
+    21300004: janhuygen_running_north_2
+    21300006: janhuygen_running_north_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: janhuygen_running_north_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 13, y: 0}
+        - {x: 19, y: 13}
+        - {x: 19, y: 35}
+        - {x: 12, y: 55}
+        - {x: 10, y: 58}
+        - {x: -11, y: 58}
+        - {x: -14, y: 57}
+        - {x: -19, y: 47}
+        - {x: -19, y: 10}
+        - {x: -16, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 8}
+    - name: janhuygen_running_north_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 69}
+        - {x: -14, y: 68}
+        - {x: -17, y: 61}
+        - {x: -17, y: 4}
+        - {x: 17, y: 4}
+        - {x: 17, y: 69}
+    - name: janhuygen_running_north_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 34
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 66}
+        - {x: -14, y: 65}
+        - {x: -17, y: 58}
+        - {x: -17, y: 1}
+        - {x: 17, y: 1}
+        - {x: 17, y: 58}
+        - {x: 11, y: 66}
+    - name: janhuygen_running_north_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 34
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 2}
+        - {x: 17, y: 19}
+        - {x: 17, y: 44}
+        - {x: 15, y: 58}
+        - {x: -10, y: 58}
+        - {x: -13, y: 53}
+        - {x: -17, y: 40}
+        - {x: -17, y: 15}
+        - {x: -10, y: 0}
+        - {x: -1, y: 0}
+        - {x: 0, y: 1}
+        - {x: 0, y: 8}
+        - {x: 0, y: 1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 56f34b431a7a22e45b3c02fa8d98685f
+timeCreated: 1461860335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: janhuygen_death_east_0
+    21300002: janhuygen_death_east_1
+    21300004: janhuygen_death_east_2
+    21300006: janhuygen_death_east_3
+    21300008: janhuygen_death_east_4
+    21300010: janhuygen_death_east_5
+    21300012: janhuygen_death_east_6
+    21300014: janhuygen_death_east_7
+    21300016: janhuygen_death_east_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: janhuygen_death_east_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 189
+        width: 31
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: janhuygen_death_east_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 189
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 58}
+        - {x: -21, y: 58}
+        - {x: -21, y: 26}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 2}
+        - {x: 21, y: 11}
+        - {x: 21, y: 33}
+    - name: janhuygen_death_east_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 189
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 54}
+        - {x: -25, y: 30}
+        - {x: -4, y: 0}
+        - {x: 16, y: 0}
+        - {x: 25, y: 17}
+        - {x: 25, y: 34}
+        - {x: 2, y: 54}
+    - name: janhuygen_death_east_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 56
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 34}
+        - {x: -28, y: 9}
+        - {x: 3, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 34}
+    - name: janhuygen_death_east_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 60
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 32}
+        - {x: 12, y: 35}
+        - {x: -28, y: 35}
+        - {x: -30, y: 31}
+        - {x: -30, y: 7}
+        - {x: -23, y: 3}
+        - {x: 0, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 19}
+        - {x: 27, y: 26}
+    - name: janhuygen_death_east_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 26}
+        - {x: -0.5, y: 26}
+        - {x: 12.5, y: 26}
+        - {x: 14.5, y: 24}
+        - {x: 16.5, y: 23}
+        - {x: 19.5, y: 29}
+        - {x: 18.5, y: 52}
+        - {x: 17.5, y: 54}
+        - {x: -21.5, y: 54}
+        - {x: -31.5, y: 37}
+        - {x: -31.5, y: 2}
+        - {x: -30.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 12}
+        - {x: 30.5, y: 14}
+    - name: janhuygen_death_east_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 55
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 56}
+        - {x: -17.5, y: 55}
+        - {x: -31.5, y: 26}
+        - {x: -31.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 36}
+        - {x: 19.5, y: 56}
+      - - {x: -3.5, y: 26}
+        - {x: -2.5, y: 23}
+        - {x: 4.5, y: 23}
+        - {x: 6.5, y: 25}
+        - {x: 5.5, y: 28}
+        - {x: -1.5, y: 28}
+    - name: janhuygen_death_east_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 55
+        width: 63
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 23}
+        - {x: -31.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 12}
+        - {x: -0.5, y: 23}
+      - - {x: -16.5, y: 58}
+        - {x: -17.5, y: 57}
+        - {x: -17.5, y: 24}
+        - {x: 18.5, y: 24}
+        - {x: 18.5, y: 58}
+      - - {x: -3.5, y: 28}
+        - {x: -2.5, y: 25}
+        - {x: 4.5, y: 25}
+        - {x: 6.5, y: 27}
+        - {x: 5.5, y: 30}
+        - {x: -1.5, y: 30}
+    - name: janhuygen_death_east_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 55
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 23}
+        - {x: -31.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 31.5, y: 12}
+        - {x: -0.5, y: 23}
+      - - {x: -16.5, y: 60}
+        - {x: -17.5, y: 59}
+        - {x: -17.5, y: 26}
+        - {x: 18.5, y: 26}
+        - {x: 18.5, y: 60}
+      - - {x: -3.5, y: 30}
+        - {x: -2.5, y: 27}
+        - {x: 4.5, y: 27}
+        - {x: 6.5, y: 29}
+        - {x: 5.5, y: 32}
+        - {x: -1.5, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

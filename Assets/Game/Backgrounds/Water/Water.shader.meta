@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ea5266dc1361e2941b5681d3ddd905a7
+timeCreated: 1467279395
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _gsWaterMix: {fileID: 2800000, guid: 337a861bd841f4a4da65c3d1bfb9e47a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

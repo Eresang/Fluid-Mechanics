@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 2e80b30f09da8f74c895e77b71329ae8
+timeCreated: 1462868718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sailor_cannon_running_south_0
+    21300002: sailor_cannon_running_south_1
+    21300004: sailor_cannon_running_south_2
+    21300006: sailor_cannon_running_south_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sailor_cannon_running_south_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 36
+        width: 36
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 57}
+        - {x: -18, y: 42}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 39}
+        - {x: 11, y: 57}
+    - name: sailor_cannon_running_south_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 36
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 66}
+        - {x: -16, y: 63}
+        - {x: -16, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 48}
+        - {x: 11, y: 66}
+    - name: sailor_cannon_running_south_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 64}
+        - {x: -16, y: 61}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 46}
+        - {x: 11, y: 64}
+    - name: sailor_cannon_running_south_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 57}
+        - {x: -13, y: 51}
+        - {x: -16, y: 41}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 54}
+        - {x: 11, y: 57}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
